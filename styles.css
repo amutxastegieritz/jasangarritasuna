@@ -1,0 +1,75 @@
+/* styles.css – Berdea Sarean */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8f0;
+    color: #333;
+}
+
+header {
+    background-color: #228B22; /* berde iluna, naturarekin lotuta dagoen kolorea [web:49][web:62] */
+    color: white;
+    text-align: center;
+    padding: 50px 20px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    background: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+h2 {
+    color: #228B22;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background: #e8f5e8;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.ubicacion {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #228B22;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+    font-size: 0.9em;
+}
+
+.map-placeholder {
+    background: #ddd;
+    height: 300px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+    color: #555;
+}

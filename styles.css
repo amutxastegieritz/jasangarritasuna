@@ -73,3 +73,117 @@ footer {
     font-style: italic;
     color: #555;
 }
+.carousel-section {
+    margin: 2rem 0;
+}
+
+.carousel-container {
+    max-width: 600px; /* Reducido */
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    border-radius: 12px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+}
+
+.carousel {
+    position: relative;
+    width: 100%;
+    height: 200px; /* Mucho más pequeño: de 300px a 200px */
+}
+
+.carousel-track {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    height: 100%;
+}
+
+.carousel-image {
+    width: 100%;
+    height: 200px; /* Mucho más pequeño */
+    object-fit: cover; /* Mantiene proporción sin distorsión */
+    flex-shrink: 0;
+}
+
+.carousel-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(255,255,255,0.9);
+    border: none;
+    width: 45px; /* Ligeramente más pequeños */
+    height: 45px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    z-index: 10;
+}
+
+.prev-btn {
+    left: 10px;
+}
+
+.next-btn {
+    right: 10px;
+}
+
+.carousel-btn:hover {
+    background: white;
+    transform: translateY(-50%) scale(1.1);
+}
+
+.carousel-dots {
+    position: absolute;
+    bottom: 15px; /* Ajustado para tamaño más pequeño */
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 8px;
+}
+
+.dot {
+    width: 10px;
+    height: 10px; /* Dots más pequeños */
+    border-radius: 50%;
+    background: rgba(255,255,255,0.5);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.dot.active,
+.dot:hover {
+    background: white;
+    transform: scale(1.2);
+}
+
+/* Responsive - aún más pequeño en móviles */
+@media (max-width: 768px) {
+    .carousel {
+        height: 160px; /* Muy compacto en móvil */
+    }
+    
+    .carousel-image {
+        height: 160px;
+    }
+    
+    .carousel-container {
+        max-width: 500px;
+    }
+    
+    .carousel-btn {
+        width: 38px;
+        height: 38px;
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 480px) {
+    .carousel {
+        height: 140px;
+    }
+    
+    .carousel-image {
+        height: 140px;
+    }
+}

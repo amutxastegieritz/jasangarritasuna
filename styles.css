@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #228B22; /* berde iluna, naturarekin lotuta dagoen kolorea [web:49][web:62] */
+    background-color: #228B22; /* berde iluna, naturarekin lotuta dagoen kolorea */
     color: white;
     text-align: center;
     padding: 50px 20px;
@@ -73,12 +73,17 @@ footer {
     font-style: italic;
     color: #555;
 }
+
+/* ====================================================== */
+/* CARRUSEL MÁS GRANDE - CAMBIOS AQUÍ                     */
+/* ====================================================== */
+
 .carousel-section {
     margin: 2rem 0;
 }
 
 .carousel-container {
-    max-width: 600px; /* Reducido */
+    max-width: 1000px;  /* MÁS ANCHO: 600px → 1000px */
     margin: 0 auto;
     position: relative;
     overflow: hidden;
@@ -89,7 +94,7 @@ footer {
 .carousel {
     position: relative;
     width: 100%;
-    height: 200px; /* Mucho más pequeño: de 300px a 200px */
+    height: 450px;  /* MUCHO MÁS GRANDE: 200px → 450px */
 }
 
 .carousel-track {
@@ -100,7 +105,7 @@ footer {
 
 .carousel-image {
     width: 100%;
-    height: 200px; /* Mucho más pequeño */
+    height: 450px;  /* MUCHO MÁS GRANDE: 200px → 450px */
     object-fit: cover; /* Mantiene proporción sin distorsión */
     flex-shrink: 0;
 }
@@ -111,21 +116,21 @@ footer {
     transform: translateY(-50%);
     background: rgba(255,255,255,0.9);
     border: none;
-    width: 45px; /* Ligeramente más pequeños */
-    height: 45px;
+    width: 50px;    /* Ligeramente más grandes */
+    height: 50px;
     border-radius: 50%;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 18px; /* Más grandes */
     transition: all 0.3s ease;
     z-index: 10;
 }
 
 .prev-btn {
-    left: 10px;
+    left: 15px;
 }
 
 .next-btn {
-    right: 10px;
+    right: 15px;
 }
 
 .carousel-btn:hover {
@@ -135,16 +140,16 @@ footer {
 
 .carousel-dots {
     position: absolute;
-    bottom: 15px; /* Ajustado para tamaño más pequeño */
+    bottom: 20px;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
-    gap: 8px;
+    gap: 10px;
 }
 
 .dot {
-    width: 10px;
-    height: 10px; /* Dots más pequeños */
+    width: 12px;    /* Ligeramente más grandes */
+    height: 12px;
     border-radius: 50%;
     background: rgba(255,255,255,0.5);
     cursor: pointer;
@@ -157,33 +162,34 @@ footer {
     transform: scale(1.2);
 }
 
-/* Responsive - aún más pequeño en móviles */
+/* Responsive - MÁS GRANDES TAMBIÉN EN MÓVIL */
+
 @media (max-width: 768px) {
     .carousel {
-        height: 160px; /* Muy compacto en móvil */
+        height: 450px;  /* MÁS GRANDE: 160px → 350px */
     }
     
     .carousel-image {
-        height: 160px;
+        height: 450px;  /* MÁS GRANDE */
     }
     
     .carousel-container {
-        max-width: 500px;
+        max-width: 95%; /* Casi full width */
     }
     
     .carousel-btn {
-        width: 38px;
-        height: 38px;
-        font-size: 14px;
+        width: 45px;
+        height: 45px;
+        font-size: 16px;
     }
 }
 
 @media (max-width: 480px) {
     .carousel {
-        height: 140px;
+        height: 280px;  /* MÁS GRANDE: 140px → 280px */
     }
     
     .carousel-image {
-        height: 140px;
+        height: 280px;
     }
 }

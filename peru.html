@@ -20,36 +20,50 @@
             <div class="carousel-container">
                 <div class="carousel">
                     <div class="carousel-track">
-                        <img src="IMAGENES/Imagen (1).jpeg" alt="Punto Verde exterior" class="carousel-image">
-                        <img src="IMAGENES/Imagen (6).jpeg" alt="Contenedores de reciclaje" class="carousel-image">
-                        <img src="IMAGENES/Imagen (3).jpeg" alt="Interior del Punto Verde" class="carousel-image">
-                        <img src="IMAGENES/Imagen (4).jpeg" alt="Materiales reciclados" class="carousel-image">
+                        <img src="IMAGENES/Imagen (1).jpeg" alt="Punto Verde exterior 1" class="carousel-image">
+                        <img src="IMAGENES/Imagen (6).jpeg" alt="Contenedores de reciclaje 1" class="carousel-image">
+                        <img src="IMAGENES/Imagen (3).jpeg" alt="Interior del Punto Verde 1" class="carousel-image">
+                        <img src="IMAGENES/Imagen (4).jpeg" alt="Materiales reciclados 1" class="carousel-image">
+                        <img src="IMAGENES/IMG_8189.jpg" alt="Punto Verde exterior 2" class="carousel-image">
+                        <img src="IMAGENES/IMG_8190.jpg" alt="Contenedores de reciclaje 2" class="carousel-image">
+                        <img src="IMAGENES/IMG_8191.jpg" alt="Interior del Punto Verde 2" class="carousel-image">
+                        <img src="IMAGENES/IMG_8192.jpg" alt="Materiales reciclados 2" class="carousel-image">
+                        <img src="IMAGENES/IMG_8193.jpg" alt="Punto Verde exterior 1" class="carousel-image">
+                        <img src="IMAGENES/IMG_8194.jpg" alt="Contenedores de reciclaje 1" class="carousel-image">
+                        <img src="IMAGENES/IMG_8195.jpg" alt="Interior del Punto Verde 1" class="carousel-image">
+                        <img src="IMAGENES/IMG_8196.jpg" alt="Materiales reciclados 1" class="carousel-image">
+                        <img src="IMAGENES/IMG_8197.jpg" alt="Punto Verde exterior 2" class="carousel-image">
+                        <img src="IMAGENES/IMG_8198.jpg" alt="Contenedores de reciclaje 2" class="carousel-image">
+                        <img src="IMAGENES/IMG_8199.jpg" alt="Interior del Punto Verde 2" class="carousel-image">
+                        <img src="IMAGENES/IMG_8200.jpg" alt="Materiales reciclados 2" class="carousel-image">
                     </div>
+
                     <button class="carousel-btn prev-btn" onclick="moveCarousel(-1)">
                         <i class="fas fa-chevron-left"></i>
                     </button>
                     <button class="carousel-btn next-btn" onclick="moveCarousel(1)">
                         <i class="fas fa-chevron-right"></i>
                     </button>
+
                     <div class="carousel-dots">
                         <span class="dot active" onclick="currentSlide(1)"></span>
                         <span class="dot" onclick="currentSlide(2)"></span>
                         <span class="dot" onclick="currentSlide(3)"></span>
                         <span class="dot" onclick="currentSlide(4)"></span>
+                        <span class="dot" onclick="currentSlide(5)"></span>
+                        <span class="dot" onclick="currentSlide(6)"></span>
+                        <span class="dot" onclick="currentSlide(7)"></span>
+                        <span class="dot" onclick="currentSlide(8)"></span>
                     </div>
                 </div>
             </div>
         </section>
 
-        <!-- SECCIÓN 1 - COMPLETADA -->
+        <!-- SECCIÓN 1 - EJEMPLO -->
         <section>
             <h2>a</h2>
-            <p>
-                fdgsgfgf
-            </p>
-            <p>
-                gsdfgdf
-            </p>
+            <p>fdgsgfgf</p>
+            <p>gsdfgdf</p>
         </section>
     </main>
     
@@ -81,7 +95,9 @@
             track.style.transform = `translateX(-${currentSlideIndex * slideWidth}px)`;
 
             dots.forEach(dot => dot.classList.remove('active'));
-            dots[currentSlideIndex].classList.add('active');
+            if (dots[currentSlideIndex]) {
+                dots[currentSlideIndex].classList.add('active');
+            }
         }
 
         setInterval(() => {

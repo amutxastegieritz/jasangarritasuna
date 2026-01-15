@@ -3,46 +3,79 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Berdea Sarean</title>
+    <title>Berdea Sarea</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
-    <header>
-        <h1>Berdea Sarean</h1>
-        <p>UNI Eibar-Ermua inguruko Punto Berdea: Birzikla eta ingurumena zaindu</p>
-    </header>
-    
-    <main>
-        <section>
-            <h2>Zer da Berdea Sarean?</h2>
-            <p>
-                Berdea Sarean Punto Berde/Garbiguneari buruzko orri nagusia da,
-                etxeko hondakin bereziak birziklatzeko gunea.
-            </p>
-            <p>
-                Materialak berreskuratzea, isurketak saihestea eta zabortegiak
-                murriztea da helburua.
-            </p>
-        </section>
-        
-        <section>
-            <h2>Kokapena</h2>
-            <p>
-                Oso leku ederra eta lasaia da, berdean inguraturik.
-            </p>
+    <nav class="navbar">
+        <div class="navbar-container">
+            <a href="main.html" class="logo">
+                <i class="fas fa-recycle"></i>
+                Berdea Sarea
+            </a>
+            <ul class="nav-menu">
+                <li><a href="main.html" class="nav-link active">Hasiera</a></li>
+                <li><a href="kokapena.html" class="nav-link">Kokapena</a></li>
+                <li><a href="peru.html" class="nav-link">Irudiak</a></li>
+                <li><a href="zereginak.html" class="nav-link">Zereginak</a></li>
+                <li><a href="benat.html" class="nav-link">Arazoak</a></li>
+            </ul>
+            <div class="nav-toggle">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
 
+    <header>
+        <h1>Berdea Sarea</h1>
+        <p>UNI Eibar-Ermua inguruko Punto Berdea ♻️ Birzikla eta ingurumena zaindut!</p>
+    </header>
+
+    <main>
+        <section class="intro-card">
+            <h3><i class="fas fa-globe-europe"></i> Berdea Sarearen Mundua</h3>
+            <p>Komunitate osoarentzat sortutako espazioa da, non birziklapena ohituraz bihurtzen dugu. Eibar eta Ermuako unibertsitate inguruan kokatua, naturarekin konektatzeko eta hondakinak kudeatzeko lekurik onena da.</p>
+            <p><strong>Helburuak:</strong> Materialak berreskuratzea, isurketak saihestu eta zabortegiak murriztea. Batu gure mugimendu berdeari!</p>
+            <a href="zereginak.html" class="cta-btn">Has zaitez Gaur! <i class="fas fa-arrow-right"></i></a>
+        </section>
+
+        <section>
+            <h2><i class="fas fa-question-circle"></i> Zer da Berdea Sarean?</h2>
+            <p>Berdea Sarean Punto Berde/Garbiguneari buruzko orri nagusia da, etxeko hondakin bereziak birziklatzeko gunea. Materialak berreskuratzea, isurketak saihestu eta zabortegiak murriztea da helburua.</p>
+            <p>Gure taldeak egunero lanean aritzen da ingurumena hobetzeko. Komunitateko kide guztiei zabalik dago, eta doakoa da erabiltzaileentzat.</p>
+        </section>
+
+        <section>
+            <h2><i class="fas fa-map-marker-alt"></i> Kokapena</h2>
+            <p>Oso leku ederra eta lasaia da, berdean inguraturik. Unibertsitatearen ondoan dago, erraztasunez iristeko.</p>
             <div class="map-container">
-                <img src="IMAGENES/fmenu.jpg"
-                    alt="Descripción de la imagen"
-                    width="100%"
-                    height="300"
-                    style="border:0; object-fit: cover;">
+                <iframe src="https://www.google.com/maps/embed?pb=!4v1734330000!6m8!1m7!1sJTlX5QPCITr4oVZtNhYyBA!2m2!1d43.1793191!2d-2.4882469!3f129.43!4f92.2!5f0.7820865974627469" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
         </section>
     </main>
-    
+
     <footer>
-        <p>&copy; 2025 Berdea Sarean – Tokiko birziklapenaren alde.</p>
+        <p>&copy; 2026 Berdea Sarea <i class="fas fa-leaf"></i> | Tokiko birziklapenaren alde</p>
     </footer>
+
+    <script>
+        // Mobile menu toggle (común a todas)
+        const navToggle = document.querySelector('.nav-toggle');
+        const navMenu = document.querySelector('.nav-menu');
+        
+        navToggle.addEventListener('click', () => {
+            navMenu.classList.toggle('active');
+        });
+
+        // Cerrar menú al clickear enlace
+        document.querySelectorAll('.nav-link').forEach(link => {
+            link.addEventListener('click', () => {
+                navMenu.classList.remove('active');
+            });
+        });
+    </script>
 </body>
 </html>

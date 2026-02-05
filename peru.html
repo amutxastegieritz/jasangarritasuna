@@ -3,109 +3,79 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Irudiak - Berdea Sarea</title>
+    <title>Berdea Sarean</title>
     <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 </head>
 <body>
-    <nav class="navbar">
-        <div class="navbar-container">
-            <a href="main.html" class="logo">
-                <i class="fas fa-recycle"></i>
-                Berdea Sarea
-            </a>
-            <ul class="nav-menu">
-                <li><a href="main.html" class="nav-link">Hasiera</a></li>
-                <li><a href="kokapena.html" class="nav-link">Kokapena</a></li>
-                <li><a href="peru.html" class="nav-link active">Irudiak</a></li>
-                <li><a href="zereginak.html" class="nav-link">Zereginak</a></li>
-                <li><a href="benat.html" class="nav-link">Arazoak</a></li>
-            </ul>
-            <div class="nav-toggle">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-        </div>
-    </nav>
-
     <header>
-        <h1>📸 Galeria Birziklapenaren</h1>
-        <p>Gure Punto Berdearen irudiak benetakoak - Eibar-Ermua 2026</p>
+        <h1>Berdea Sarean</h1>
+        <p>UNI Eibar-Ermua inguruko Punto Berdea: Birzikla eta ingurumena zaindu</p>
     </header>
-
+    
     <main>
+        <!-- Carrusel de fotos -->
         <section class="carousel-section">
-            <h2><i class="fas fa-images"></i> Irudiak / Imágenes Reales</h2>
+            <h2>Irudiak / Fotos</h2>
             <div class="carousel-container">
                 <div class="carousel">
                     <div class="carousel-track">
-                        <!-- TUS IMÁGENES REALES en orden secuencial -->
-                        <img src="IMAGENES/IMG_8194.jpg" alt="Punto Verde - Exterior 1" class="carousel-image" loading="lazy">
-                        <img src="IMAGENES/IMG_8195.jpg" alt="Punto Verde - Árboles vallados" class="carousel-image" loading="lazy">
-                        <img src="IMAGENES/IMG_8196.jpg" alt="Punto Verde - Interior invernadero" class="carousel-image" loading="lazy">
-                        <img src="IMAGENES/IMG_8197.jpg" alt="Punto Verde - Árbol joven soporte" class="carousel-image" loading="lazy">
-                        <img src="IMAGENES/IMG_8198.jpg" alt="Punto Verde - Valla verde paisaje" class="carousel-image" loading="lazy">
-                        <img src="IMAGENES/IMG_8199.jpg" alt="Punto Verde - Cubos cemento" class="carousel-image" loading="lazy">
-                        <img src="IMAGENES/IMG_8200.jpg" alt="Punto Verde - Árbol vallado 1" class="carousel-image" loading="lazy">
-                        <img src="IMAGENES/IMG_8201.jpg" alt="Punto Verde - Árbol vallado 2" class="carousel-image" loading="lazy">
-                        <img src="IMAGENES/IMG_8202.jpg" alt="Punto Verde - Planta roja maceta" class="carousel-image" loading="lazy">
-                        <img src="IMAGENES/IMG_8203.jpg" alt="Punto Verde - Valla árboles otoño" class="carousel-image" loading="lazy">
-                        <img src="IMAGENES/IMG_8204.jpg" alt="Punto Verde - Planta colgante" class="carousel-image" loading="lazy">
+                        <img src="IMAGENES/Imagen (1).jpeg" alt="Punto Verde exterior 1" class="carousel-image">
+                        <img src="IMAGENES/Imagen (6).jpeg" alt="Contenedores de reciclaje 1" class="carousel-image">
+                        <img src="IMAGENES/Imagen (3).jpeg" alt="Interior del Punto Verde 1" class="carousel-image">
+                        <img src="IMAGENES/Imagen (4).jpeg" alt="Materiales reciclados 1" class="carousel-image">
+                        <img src="IMAGENES/IMG_8189.jpg" alt="Punto Verde exterior 2" class="carousel-image">
+                        <img src="IMAGENES/IMG_8190.jpg" alt="Contenedores de reciclaje 2" class="carousel-image">
+                        <img src="IMAGENES/IMG_8191.jpg" alt="Interior del Punto Verde 2" class="carousel-image">
+                        <img src="IMAGENES/IMG_8192.jpg" alt="Materiales reciclados 2" class="carousel-image">
+                        <img src="IMAGENES/IMG_8193.jpg" alt="Punto Verde exterior 1" class="carousel-image">
+                        <img src="IMAGENES/IMG_8194.jpg" alt="Contenedores de reciclaje 1" class="carousel-image">
+                        <img src="IMAGENES/IMG_8195.jpg" alt="Interior del Punto Verde 1" class="carousel-image">
+                        <img src="IMAGENES/IMG_8196.jpg" alt="Materiales reciclados 1" class="carousel-image">
+                        <img src="IMAGENES/IMG_8197.jpg" alt="Punto Verde exterior 2" class="carousel-image">
+                        <img src="IMAGENES/IMG_8198.jpg" alt="Contenedores de reciclaje 2" class="carousel-image">
+                        <img src="IMAGENES/IMG_8199.jpg" alt="Interior del Punto Verde 2" class="carousel-image">
+                        <img src="IMAGENES/IMG_8200.jpg" alt="Materiales reciclados 2" class="carousel-image">
                     </div>
-                    <button class="carousel-btn prev-btn" onclick="moveCarousel(-1)" aria-label="Anterior">
+
+                    <button class="carousel-btn prev-btn" onclick="moveCarousel(-1)">
                         <i class="fas fa-chevron-left"></i>
                     </button>
-                    <button class="carousel-btn next-btn" onclick="moveCarousel(1)" aria-label="Siguiente">
+                    <button class="carousel-btn next-btn" onclick="moveCarousel(1)">
                         <i class="fas fa-chevron-right"></i>
                     </button>
+
+                    <div class="carousel-dots">
+                        <span class="dot active" onclick="currentSlide(1)"></span>
+                        <span class="dot" onclick="currentSlide(2)"></span>
+                        <span class="dot" onclick="currentSlide(3)"></span>
+                        <span class="dot" onclick="currentSlide(4)"></span>
+                        <span class="dot" onclick="currentSlide(5)"></span>
+                        <span class="dot" onclick="currentSlide(6)"></span>
+                        <span class="dot" onclick="currentSlide(7)"></span>
+                        <span class="dot" onclick="currentSlide(8)"></span>
+                    </div>
                 </div>
-                <div class="carousel-dots" id="carousel-dots">
-                    <!-- Dots generados dinámicamente por JS -->
-                </div>
-            </div>
-            
-            <!-- Indicadores de posición -->
-            <div style="text-align: center; margin-top: 1rem; color: #666; font-size: 0.9rem;">
-                <span id="slide-counter">1</span> / <span id="total-slides">11</span>
             </div>
         </section>
 
-        <section class="intro-card">
-            <h3><i class="fas fa-camera"></i> Gure Espazio Benetakoa</h3>
-            <p>11 irudi original Punto Verde/Garbigune de Eibar-Ermua ingurua. Naturan integratua, komunitatearentzat zabalik. 
-            <br><strong>📍 Unibertsitate ondoan | ♻️ Birziklapen aktiboa | 🌿 Ingurumena babestua</strong></p>
-            <div style="margin-top: 2rem; font-size: 0.9rem; opacity: 0.8;">
-                <p>Fotografiak: 2026ko urtarrila | IMG_8194-IMG_8204 seriea</p>
-            </div>
+        <!-- SECCIÓN 1 - EJEMPLO -->
+        <section>
+            <h2>a</h2>
+            <p>fdgsgfgf</p>
+            <p>gsdfgdf</p>
         </section>
     </main>
-
+    
     <footer>
-        <p>&copy; 2026 Berdea Sarea <i class="fas fa-camera-retro"></i> | Irudi originalak IMAGENES/ karpetatik</p>
+        <p>&copy; 2025 Berdea Sarean – Tokiko birziklapenaren alde.</p>
     </footer>
 
     <script>
         let currentSlideIndex = 0;
         const slides = document.querySelectorAll('.carousel-image');
-        const totalSlides = slides.length;
-        const container = document.querySelector('.carousel-container');
-        const dotsContainer = document.getElementById('carousel-dots');
-        const slideCounter = document.getElementById('slide-counter');
-        const totalCounter = document.getElementById('total-slides');
-
-        // Configurar total
-        totalCounter.textContent = totalSlides;
-
-        // Crear dots dinámicamente para cada imagen
-        for(let i = 0; i < totalSlides; i++) {
-            const dot = document.createElement('span');
-            dot.classList.add('dot');
-            dot.setAttribute('data-slide', i);
-            dot.onclick = () => goToSlide(i);
-            dotsContainer.appendChild(dot);
-        }
         const dots = document.querySelectorAll('.dot');
+        const totalSlides = slides.length;
 
         function moveCarousel(direction) {
             currentSlideIndex += direction;
@@ -114,65 +84,27 @@
             updateCarousel();
         }
 
-        function goToSlide(index) {
-            currentSlideIndex = index;
+        function currentSlide(index) {
+            currentSlideIndex = index - 1;
             updateCarousel();
         }
 
         function updateCarousel() {
             const track = document.querySelector('.carousel-track');
-            const slideWidth = slides[0].offsetWidth + 20; // Margen pequeño
+            const slideWidth = slides[0].offsetWidth;
             track.style.transform = `translateX(-${currentSlideIndex * slideWidth}px)`;
-            
-            // Actualizar dots
-            dots.forEach((dot, index) => {
-                dot.classList.toggle('active', index === currentSlideIndex);
-            });
-            
-            // Actualizar contador
-            slideCounter.textContent = currentSlideIndex + 1;
-            
-            // Preload next image
-            const nextSlide = slides[(currentSlideIndex + 1) % totalSlides];
-            nextSlide.src = nextSlide.src; // Trigger preload
+
+            dots.forEach(dot => dot.classList.remove('active'));
+            if (dots[currentSlideIndex]) {
+                dots[currentSlideIndex].classList.add('active');
+            }
         }
 
-        // Teclado support
-        document.addEventListener('keydown', (e) => {
-            if (e.key === 'ArrowLeft') moveCarousel(-1);
-            if (e.key === 'ArrowRight') moveCarousel(1);
-        });
+        setInterval(() => {
+            moveCarousel(1);
+        }, 4000);
 
-        // Touch/swipe support
-        let startX = 0;
-        let endX = 0;
-        container.addEventListener('touchstart', (e) => {
-            startX = e.touches[0].clientX;
-        });
-        container.addEventListener('touchend', (e) => {
-            endX = e.changedTouches[0].clientX;
-            if (startX - endX > 50) moveCarousel(1);
-            if (endX - startX > 50) moveCarousel(-1);
-        });
-
-        // Auto play con pausa en hover
-        let autoPlayInterval;
-        function startAutoPlay() {
-            autoPlayInterval = setInterval(() => moveCarousel(1), 4000);
-        }
-        function stopAutoPlay() {
-            clearInterval(autoPlayInterval);
-        }
-        container.addEventListener('mouseenter', stopAutoPlay);
-        container.addEventListener('mouseleave', startAutoPlay);
-        
-        // Resize handler
         window.addEventListener('resize', updateCarousel);
-        
-        // Inicializar
-        updateCarousel();
-        startAutoPlay();
     </script>
 </body>
 </html>
-

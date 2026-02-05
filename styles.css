@@ -174,22 +174,7 @@ li {
   position: relative;
 }
 
-li::before {
-  content: '✓';
-  position: absolute;
-  left: 1rem;
-  top: 1.5rem;
-  background: var(--secondary-green);
-  color: white;
-  width: 30px;
-  height: 30px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: bold;
-  font-size: 0.9rem;
-}
+
 
 li:hover {
   transform: translateX(10px);

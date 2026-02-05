@@ -9,36 +9,72 @@ body {
 }
 
 header {
-    background-color: #228B22; /* berde iluna, naturarekin lotuta dagoen kolorea */
+    background: linear-gradient(135deg, #228B22 0%, #1a6b1a 100%);
     color: white;
+    padding: 30px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    gap: 20px;
+}
+
+.header-content {
+    flex: 1;
     text-align: center;
-    padding: 50px 20px;
+    min-width: 200px;
+    width: 100%;
+}
+
+.header-logo {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    align-self: flex-start;
+    margin-left: 20px;
+}
+
+.header-logo i {
+    font-size: 3rem;
+    animation: spin 3s linear infinite;
+}
+
+@keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
 }
 
 .header-buttons {
     display: flex;
     justify-content: center;
-    gap: 15px;
-    margin-top: 20px;
+    gap: 12px;
     flex-wrap: wrap;
+    width: 100%;
 }
 
 .header-btn {
     display: inline-block;
-    background-color: rgba(255, 255, 255, 0.2);
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.1));
     color: white;
-    padding: 10px 20px;
-    border-radius: 5px;
+    padding: 12px 25px;
+    border-radius: 25px;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: 600;
     transition: all 0.3s ease;
-    border: 2px solid white;
+    border: 2px solid rgba(255, 255, 255, 0.5);
+    font-size: 0.95rem;
 }
 
 .header-btn:hover {
-    background-color: rgba(255, 255, 255, 0.4);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.3));
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+    border-color: white;
 }
 
 h1 {

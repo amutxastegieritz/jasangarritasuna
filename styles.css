@@ -27,20 +27,10 @@ header {
     width: 100%;
 }
 
-.header-logo {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-    font-size: 2.5em;
-    font-weight: bold;
-    text-decoration: none;
+h1 i {
+    font-size: 2.5rem;
     color: white;
-    align-self: flex-start;
-    margin-left: 20px;
-}
-
-.header-logo i {
-    font-size: 3rem;
+    margin-right: 10px;
     animation: spin 3s linear infinite;
 }
 
@@ -80,6 +70,9 @@ header {
 h1 {
     margin: 0;
     font-size: 2.5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 main {

@@ -5,24 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Berdea Sarean</title>
     <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 </head>
 <body>
 
     <header>
-        <a href="main.html" class="header-logo">
-            <i class="fas fa-leaf"></i>
-            Berdea Sarean
-        </a>
         <div class="header-content">
-            <h1>Berdea Sarea</h1>
+            <h1><i class="fas fa-leaf"></i> Berdea Sarean</h1>
             <p>UNI Eibar-Ermua inguruko Punto Berdea: Birzikla eta ingurumena zaindu</p>
         </div>
         <div class="header-buttons">
             <a href="main.html" class="header-btn">Hasiera</a>
             <a href="kokapena.html" class="header-btn">Kokapena</a>
-            <a href="peru.html" class="header-btn">Irudiak</a>
+            <a href="irudiak.html" class="header-btn">Irudiak</a>
             <a href="zeregina.html" class="header-btn">Zereginak</a>
-            <a href="benat.html" class="header-btn">Arazoak</a>
+            <a href="landareak.html" class="header-btn">Landareak</a>
+            <a href="arazoak.html" class="header-btn">Arazoak</a>
         </div>
     </header>
         
@@ -30,90 +28,7 @@
         <section class="intro-card">
             <h3><i class="fas fa-hands-helping"></i> Zure Ekintza Garai-a</h3>
             <p>Hau dira gure komunitateko ohiturak aldatzeko gakoak. Txikiz hasi, mundua alda! 🔄</p>
-            <a href="peru.html" class="cta-btn">Ikusi Irudiak <i class="fas fa-images"></i></a>
-        </section>
-        
-        <!-- Carrusel de fotos -->
-        <section class="carousel-section">
-            <h2>Irudiak / Fotos</h2>
-            <div class="carousel-container">
-                <div class="carousel">
-                    <div class="carousel-track">
-                        <img src="IMAGENES/Imagen (1).jpeg" alt="Punto Verde exterior 1" class="carousel-image">
-                        <img src="IMAGENES/Imagen (6).jpeg" alt="Contenedores de reciclaje 1" class="carousel-image">
-                        <img src="IMAGENES/Imagen (3).jpeg" alt="Interior del Punto Verde 1" class="carousel-image">
-                        <img src="IMAGENES/Imagen (4).jpeg" alt="Materiales reciclados 1" class="carousel-image">
-                        <img src="IMAGENES/IMG_8189.jpg" alt="Punto Verde exterior 2" class="carousel-image">
-                        <img src="IMAGENES/IMG_8190.jpg" alt="Contenedores de reciclaje 2" class="carousel-image">
-                        <img src="IMAGENES/IMG_8191.jpg" alt="Interior del Punto Verde 2" class="carousel-image">
-                        <img src="IMAGENES/IMG_8192.jpg" alt="Materiales reciclados 2" class="carousel-image">
-                        <img src="IMAGENES/IMG_8193.jpg" alt="Punto Verde exterior 1" class="carousel-image">
-                        <img src="IMAGENES/IMG_8194.jpg" alt="Contenedores de reciclaje 1" class="carousel-image">
-                        <img src="IMAGENES/IMG_8195.jpg" alt="Interior del Punto Verde 1" class="carousel-image">
-                        <img src="IMAGENES/IMG_8196.jpg" alt="Materiales reciclados 1" class="carousel-image">
-                        <img src="IMAGENES/IMG_8197.jpg" alt="Punto Verde exterior 2" class="carousel-image">
-                        <img src="IMAGENES/IMG_8198.jpg" alt="Contenedores de reciclaje 2" class="carousel-image">
-                        <img src="IMAGENES/IMG_8199.jpg" alt="Interior del Punto Verde 2" class="carousel-image">
-                        <img src="IMAGENES/IMG_8200.jpg" alt="Materiales reciclados 2" class="carousel-image">
-                    </div>
-
-                    <button class="carousel-btn prev-btn" onclick="moveCarousel(-1)">
-                        <i class="fas fa-chevron-left"></i>
-                    </button>
-                    <button class="carousel-btn next-btn" onclick="moveCarousel(1)">
-                        <i class="fas fa-chevron-right"></i>
-                    </button>
-
-                    <div class="carousel-dots">
-                        <span class="dot active" onclick="currentSlide(1)"></span>
-                        <span class="dot" onclick="currentSlide(2)"></span>
-                        <span class="dot" onclick="currentSlide(3)"></span>
-                        <span class="dot" onclick="currentSlide(4)"></span>
-                        <span class="dot" onclick="currentSlide(5)"></span>
-                        <span class="dot" onclick="currentSlide(6)"></span>
-                        <span class="dot" onclick="currentSlide(7)"></span>
-                        <span class="dot" onclick="currentSlide(8)"></span>
-                    </div>
-                </div>
-            </div>
-        </section>
-        
-        <script>
-            let currentSlideIndex = 1;
-
-            function moveCarousel(n) {
-                showSlides(currentSlideIndex += n);
-            }
-
-            function currentSlide(n) {
-                showSlides(currentSlideIndex = n);
-            }
-
-            function showSlides(n) {
-                const track = document.querySelector('.carousel-track');
-                const slides = document.querySelectorAll('.carousel-image');
-                const dots = document.querySelectorAll('.dot');
-                
-                if (n > slides.length) {
-                    currentSlideIndex = 1;
-                }
-                if (n < 1) {
-                    currentSlideIndex = slides.length;
-                }
-                
-                const offset = -(currentSlideIndex - 1) * 100;
-                track.style.transform = `translateX(${offset}%)`;
-                
-                dots.forEach(dot => dot.classList.remove('active'));
-                dots[currentSlideIndex - 1].classList.add('active');
-            }
-        </script>
-        
-        <section>
-            <h2>Landare motak</h2>
-            <p>
-                Hemen landare mota desberdinak azaltzen dira, bakoitzaren deskribapena eta irudiarekin batera.
-            </p>
+            <a href="irudiak.html" class="cta-btn">Ikusi Irudiak <i class="fas fa-images"></i></a>
         </section>
         
         <section>

@@ -70,7 +70,6 @@ ul {
 }
 
 li {
-<<<<<<< HEAD
   background: linear-gradient(135deg, #f8fff8, #f0fff0);
   margin: 1.5rem 0;
   padding: 2rem;
@@ -86,12 +85,10 @@ li {
 li:hover {
   transform: translateX(10px);
   box-shadow: 0 15px 40px rgba(50,205,50,0.2);
-=======
     background: #e8f5e8;
     margin: 10px 0;
     padding: 15px;
     border-radius: 5px;
->>>>>>> 642ad0941c5d142231afed6e51ae747fdf32c556
 }
 
 .ubicacion {
@@ -236,4 +233,21 @@ footer {
     .carousel-image {
         height: 280px;
     }
+}
+
+.landare-taula {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.landare-taula th,
+.landare-taula td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.table-img {
+    width: 120px;
+    border-radius: 10px;
 }

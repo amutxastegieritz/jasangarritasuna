@@ -314,7 +314,7 @@ Berdegunearen kalitatea eta jasangarritasun-funtzionaltasuna hobetzeko, honako e
   - Datu-basearen emaitza eta grafikoa (hondakinak gutxitu, landarea gehiago).
   - Ikasleen iritzia eta gogoa.
   - Hurrengo hilearen helburuak.
-- **Estalkia:** Ikastetxeko korreo-zirriborro, gurasoen email eta auzokideen kontaktu bitez zabaldua.
+- **Estalkia:** Ikastetxeko korreo-zirriborro, gurasoen email eta auzokideen kontaktu bidez zabaldua.
 - **Barne-komunikazioa:** Irakasleak eta zuzendaritza taldea txosten osoa irakurri behar du aldez aurretik.
 
 **IGG-GJH lotura:** Go (gardentasuna eta komunikazioa).

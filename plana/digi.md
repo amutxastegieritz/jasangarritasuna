@@ -10,21 +10,21 @@ Gure uneko enpresa den Uni Eibar-Ermua ikastetxeko berdeguneetako baten zaintzar
 
 ### 1.1 Enpresa: Uni Eibar-Ermua
 
-Uni Eibar-Ermua ikastetxea gure uneoko enpresa den hezkuntza zentroa da. Ikastetxeak inguruko komunitateei kalitate oneko hezkuntza eskaini dioten bitartean, jasangarritasunaren eta bizigarritasunaren aldeko proiektuak bultzatu beharrean dago.
+Uni Eibar-Ermua ikastetxea gure uneko enpresa den hezkuntza zentroa da. Ikastetxeak inguruko komunitateari kalitate oneko hezkuntza eskaini dioten bitartean, jasangarritasunaren eta bizigarritasunaren aldeko proiektuak bultzatu beharrean dago.
 
 ### 1.2 Aukeratutako Berdegunea: Kokapenak eta Ezaugarri Orokorrak
 
-**Kokapena:** Ikastetxeko patioan, kiroldegiaren alboan dagoen zelai-eremua.
+**Kokapena:** Ikastetxeko patioan, kiroldegiaren alboan dagoen zerrenda-eremua.
 
 **Ezaugarri orokorrak:**
 
 - Belarra eta zenbait zuhaitz; landare apaingarri batzuk daude.
-- Banku eta eserlekuak atsendu eta elkartze tokiak dira.
+- Banku eta eserlekuak atseden eta elkartze tokiak dira.
 - Zaborrontziak eta hondakin-edukiontziak erabiltzen dira.
 - Ikasleen joan-etorri handia duen gunea, pasabide natural gisa.
 - Irakasleak eta auzoko jendeak ere erabiltzen du, batez ere astelehenetik ostiralera.
 
-Berdeguneak patioan eta ikastetxearen barnean duen funtzioa garrantzitsua da: ikasleak, irakasleak eta auzokideak gunearen kalitate eta ongizatzean eragina daukatenean.
+Berdeguneak patioan eta ikastetxearen barnean duen funtzioa garrantzitsua da: ikasleak, irakasleak eta auzokideak gunearen kalitate eta ongizatean eragina daukatenean.
 
 ---
 
@@ -38,7 +38,7 @@ Hiru kategoria nagusi bereizten ditugu:
 
 - **Barneko interes-taldeak:** Enpresan lan egiten dutenak edo egunerokotasunean parte hartzen dutenak.
 - **Kanpoko interes-taldeak:** Enpresaren ekimenei eragina jasotzen duten kanpoko erakundeak edo pertsona.
-- **Lurrazaleko interes-taldeak:** Paisaia eta ingurugabea ez diren baina funtsezkotzat jotzen dituzten beste batzuk.
+- **Lurrazaleko interes-taldeak:** Paisaia eta ingurugiroa ez diren baina funtsezkotzat jotzen dituzten beste batzuk.
 
 ### 2.2 Gure Berdegunearentzat Identifikatutako Interes-Taldeak
 
@@ -135,10 +135,10 @@ Baliabideak honako helburuekin erabiliko dira: **ezagutza, kontrol eta jarraipen
 - Atal berri bat ikastetxearen webgunean sortu: "Berdegune Jasangarria" edo "Gure Berdegunearen Kudeaketa".
 - Bistan jarri: proiektuaren nolakoa, helburu nagusiak, interes-taldeak eta eginiko ekintza bereziak.
 - **Argazkiak:** aurretik/ondoren bilakaera bistaratzea; berdegunean egindako lanak eta ekitaldiak.
-- **Kalenario eta egutegi:** ureztaketa, zaintza eta monitorizazio proiektuak.
+- **Egutegia eta egutegi:** ureztaketa, zaintza eta monitorizazio proiektuak.
 - **Lortutako emaitzak:** hondakin murrizketa (hilabete bakoitzean), biodibertsitate gehiagoa, ikasleen iritzia.
 - **GJH loturak:** bakoitza GJH-rekin konektatzea eta nola lagun duen azaldu.
-- **Testifigatze eta ahotsak:** ikasleak, irakasleak, auzokideak zer uste duten argitaratzea.
+- **Testigantzak eta ahotsak:** ikasleak, irakasleak, auzokideak zer uste duten argitaratzea.
 
 ### 4.2 Datu-basea
 
@@ -188,7 +188,7 @@ Baliabideak honako helburuekin erabiliko dira: **ezagutza, kontrol eta jarraipen
 - Ikasleak (edo irakasleak) berdeguneean dagoen landarea argazkian jasotzen dute.
 - PlantNet aplikazioan argazkia igota, sistema AI-ak espeziea identifikatu eta datuak ematen ditu: izena (euskaraz eta latinaz), beharrak, jatorria, hazkuntzaren abiadura.
 - Identificatutako landara bakoitzerako **fitxa laburra** sortzen da web orrian eta datu-basean.
-- Landareen dibiersitatea kontuan harturik, monitorizazioa egiten duten ikasleek dibiersitate naturala nolakoa den uler dezakete.
+- Landareen dibertsitatea kontuan harturik, monitorizazioa egiten duten ikasleek dibertsitate naturala nolakoa den uler dezakete.
 
 #### 4.4.2 SEO BirdLife
 
@@ -201,17 +201,6 @@ Baliabideak honako helburuekin erabiliko dira: **ezagutza, kontrol eta jarraipen
 - **Monitorizazioa:** Arlo bakoitzean zein hegazti-espezie ikus daitekeen kontatzea, denboraz denboraz bilakaera jarraitu.
 - **Kontzientziazioa:** Hegaztiak ur-geruzaren edota landareen balioaren adierazle direla erakusten die.
 
-### 4.6 Beste Baliabide Digitalak
-
-#### 4.5.1 Argazki-galeria Partekatua
-
-**Helburua:** Dokumentazio dinamikoa eta parte-hartzaileeei beren lana ikusi ahal izatea.
-
-- **Google Drive:** Astelehena astean berdegunean hartu behar diren argazkiak.
-- **Kalendarizatu jaidun:** Astean 2-3 aldiz egunaren argazkiak igotzea.
-- **Bistaratze publikoa:** Auzokideak eta gurasoak, linkaren bidez, proiektuaren atzean zein egiten den ikustea.
-
----
 
 ## 5. Hobekuntza Proposamenak: Ekintzak Zehaztua
 
@@ -259,12 +248,12 @@ Berdegunearen kalitatea eta jasangarritasun-funtzionaltasuna hobetzeko, honako e
 
 ### 5.4 Seinaletaketa Didaktikoa Hobetzea
 
-**Helburua:** Ikasleen ezagutzea eta auzoa kontzientziazioa hobetzea, ikus daitezkeen landareak eta GJH loturak erakusten dituen kartel eta QR bidez.
+**Helburua:** Ikasleen ezagutzea eta auzoa kontzientziazioa hobetzea, ikus daitezkeen landareak eta GJH loturak erakusten dituen kartel bidez.
 
 **Ekintza zehatza:**
 
 - **Kartel fisikoa:** Landareak identifikatzeko plastikozko kartelak, 25x35 cm, hertsiarren plastikozkoa (denetan iraunkorra). Bakoitza landararen izena (euskara/ingelesa), jatorria, irudia eta lotutako GJH (ikono bidez).
-- **QR eta web orri osatua:** QR kodeak kartelean sortu, web orrian landare osoa deskribatzen duen orria seinalatzen dena.
+- **Web orri osatua:** Web orrian gure berdegunearen azalpen dena bistaratzen da.
 - **Antolaketa:** Berdeguneko 5-7 zutabetan kartelak jarri, bista garbia eta segurtasunarekin.
 - **Eguneraketa:** Landare berriaren plantazioaren ostean, kartelak sortzen dira (ikasleek beren arte diseinatu eta inprimitu ditzakete).
 
@@ -276,16 +265,14 @@ Berdegunearen kalitatea eta jasangarritasun-funtzionaltasuna hobetzeko, honako e
 
 **Ekintza zehatza:**
 
-- **Talde-txandak:** Ikasturtean zehar, 4-5 pertsonako taldeak ordezkatzen dira aste batez (adibidez, astelehenean astelehenera).
-- **Ardura esleipena:** Bakoitzak zehaztu duen lana du:
+- **Talde-txandak:** Ikasturtean zehar, 4-5 pertsonako taldeak ordezkatzea aste batez (adibidez, astelehenetik ostiralera).
+- **Ardura esleipena:** Bakoitzak zehaztu den lana du:
   - A taldea: Ureztaketa eta behaketa.
   - B taldea: Hondakin-bereizketak eta garbiketa.
   - C taldea: Konpostaren behaketa eta datu-base eguneraketa.
   - D taldea: Argazkiak hartu eta web orrian argitaratu.
-- **Denbora:** Astelehena 1-2 ordu, gaudean edo astearen bukaeran.
+- **Denbora:** Astelehena edo asteartean 1-2 ordu.
 - **Erregistroa:** Denbora, eginda dagoen lana eta behaketak datu-basean egi beharrean. Irtenbide digitala.
-
-**IGG-GJH lotura:** Gz (parte-hartzea eta herrematza), Go (parte-hartzea eta gardentasuna).
 
 ### 5.6 Hondakin Bereizketaren Zaintzaketa Hobetzea
 
@@ -299,7 +286,7 @@ Berdegunearen kalitatea eta jasangarritasun-funtzionaltasuna hobetzeko, honako e
   - Organikoa (berdea)
 - **Seinaletaketa:** Ikonoen bidez, ikaslek bertan neurtuta baina irudia eta hitzez uler ditzaketen seinalak.
 - **Kanpaina kontzientziazioa:** Astean txanda bat, ikasleak behin zenbat hondakin bereizten den kontatzea eta web orrian argitaratzea.
-- **Emisioen-kontatzea:** Nola hondakin-murrizketa karbono emisioak gutxitzen dituen erakutsi (adibidez, birziklatutako tonelada bat = X tonelada CO2 aurrezten da).
+- **Emisioen-kontatzea:** Nola hondakin-murrizketa karbono emisioak gutxitzen dituen erakutsi.
 
 **IGG-GJH lotura:** Gz-12 (Kontsumo arduratsuak), I-13 (Klimaren aurka).
 
@@ -333,14 +320,14 @@ Berdegunearen kalitatea eta jasangarritasun-funtzionaltasuna hobetzeko, honako e
 
 ---
 
-## 7. Baliabideak eta Kostua Estimatiboa (Opsionala)
+## 7. Baliabideak eta Kostua Estimatiboa
 
 | Baliabidea | Kantitatea | Kostua estimatiboa (€) | Iturria |
 |---|---|---|---|
 | **Landareak autoktonoak** | 20-30 espezie | 300-500 | Bertako vivero lokala |
 | **Konposta-kutxa** | 1 | 150-300 | Amazon edo Back Market |
 | **Baliabide digitalak** | Genially, Kahoot, Google Sheets (gehiena dohain) | 0-50 | Online plataforma |
-| **TOTAL ESTIMATIBOA** | — | **500-1.200 €** | — |
+| **TOTAL ESTIMATIBOA** | — | **500-800 €** | — |
 
 *Oharra: Ikastetxeak erabilgarri dauden baliabideak erabiltzen baditu eta boluntarioei laguntza jasotzen bada, kostua murriztu ahal izango da.*
 

@@ -38,7 +38,7 @@ Hiru kategoria nagusi bereizten ditugu:
 
 - **Barneko interes-taldeak:** Enpresan lan egiten dutenak edo egunerokotasunean parte hartzen dutenak.
 - **Kanpoko interes-taldeak:** Enpresaren ekimenei eragina jasotzen duten kanpoko erakundeak edo pertsona.
-- **Lurrazaleko interes-taldeak:** Paisaia eta ingurugabea ez diren baina funtsezkotzat jotzen dituzten beste batzuk.
+- **Lurraldeko interes-taldeak:** Paisaia eta ingurugabea ez diren baina funtsezkotzat jotzen dituzten beste batzuk.
 
 ### 2.2 Gure Berdegunearentzat Identifikatutako Interes-Taldeak
 
@@ -57,7 +57,7 @@ Hiru kategoria nagusi bereizten ditugu:
 
 Interes-talde bakoitzak papel espezifiko baten jokatzen du:
 
-- **Ikasleak** planaren sustatzaileak eta ontzat hartzaileak dira; beren parte-hartze aktiboa beharrezkoa da zaintzaren zikloak eta monitorizazioa hobetzeko.
+- **Ikasleak** planaren sustatzaileak eta hartzaileak dira; beren parte-hartze aktiboa beharrezkoa da zaintzaren zikloak eta monitorizazioa hobetzeko.
 - **Irakasleak** proiektu didaktikoaren diseinuan eta ikasleen motibazioan gakoa.
 - **Zuzendaritza** baliabide eta denbora esleitzeko ardura dauka.
 - **Kanpoko interes-taldeak** (auzoa, udala) komunikazioa eta elkarlana sustatzeko baliotsua.

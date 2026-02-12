@@ -10,7 +10,7 @@ Gure uneko enpresa den Uni Eibar-Ermua ikastetxeko berdeguneetako baten zaintzar
 
 ### 1.1 Enpresa: Uni Eibar-Ermua
 
-Uni Eibar-Ermua ikastetxea gure uneoko enpresa den hezkuntza zentroa da. Ikastetxeak inguruko komunitateei kalitate oneko hezkuntza eskaini dioten bitartean, jasangarritasunaren eta bizigarritasunaren aldeko proiektuak bultzatu beharrean dago.
+Uni Eibar-Ermua ikastetxea gure uneko enpresa den hezkuntza zentroa da. Ikastetxeak inguruko komunitateari kalitate oneko hezkuntza eskaini dioten bitartean, jasangarritasunaren eta bizigarritasunaren aldeko proiektuak bultzatu beharrean dago.
 
 ### 1.2 Aukeratutako Berdegunea: Kokapenak eta Ezaugarri Orokorrak
 
@@ -19,12 +19,12 @@ Uni Eibar-Ermua ikastetxea gure uneoko enpresa den hezkuntza zentroa da. Ikastet
 **Ezaugarri orokorrak:**
 
 - Belarra eta zenbait zuhaitz; landare apaingarri batzuk daude.
-- Banku eta eserlekuak atsendu eta elkartze tokiak dira.
+- Banku eta eserlekuak atseden eta elkartze tokiak dira.
 - Zaborrontziak eta hondakin-edukiontziak erabiltzen dira.
 - Ikasleen joan-etorri handia duen gunea, pasabide natural gisa.
 - Irakasleak eta auzoko jendeak ere erabiltzen du, batez ere astelehenetik ostiralera.
 
-Berdeguneak patioan eta ikastetxearen barnean duen funtzioa garrantzitsua da: ikasleak, irakasleak eta auzokideak gunearen kalitate eta ongizatzean eragina daukatenean.
+Berdeguneak patioan eta ikastetxearen barnean duen funtzioa garrantzitsua da: ikasleak, irakasleak eta auzokideak gunearen kalitate eta ongizatean eragina daukatenean.
 
 ---
 
@@ -38,7 +38,7 @@ Hiru kategoria nagusi bereizten ditugu:
 
 - **Barneko interes-taldeak:** Enpresan lan egiten dutenak edo egunerokotasunean parte hartzen dutenak.
 - **Kanpoko interes-taldeak:** Enpresaren ekimenei eragina jasotzen duten kanpoko erakundeak edo pertsona.
-- **Lurrazaleko interes-taldeak:** Paisaia eta ingurugabea ez diren baina funtsezkotzat jotzen dituzten beste batzuk.
+- **Lurrazaleko interes-taldeak:** Paisaia eta ingurugiroa ez diren baina funtsezkotzat jotzen dituzten beste batzuk.
 
 ### 2.2 Gure Berdegunearentzat Identifikatutako Interes-Taldeak
 
@@ -135,10 +135,10 @@ Baliabideak honako helburuekin erabiliko dira: **ezagutza, kontrol eta jarraipen
 - Atal berri bat ikastetxearen webgunean sortu: "Berdegune Jasangarria" edo "Gure Berdegunearen Kudeaketa".
 - Bistan jarri: proiektuaren nolakoa, helburu nagusiak, interes-taldeak eta eginiko ekintza bereziak.
 - **Argazkiak:** aurretik/ondoren bilakaera bistaratzea; berdegunean egindako lanak eta ekitaldiak.
-- **Kalenario eta egutegi:** ureztaketa, zaintza eta monitorizazio proiektuak.
+- **Egutegia eta egutegi:** ureztaketa, zaintza eta monitorizazio proiektuak.
 - **Lortutako emaitzak:** hondakin murrizketa (hilabete bakoitzean), biodibertsitate gehiagoa, ikasleen iritzia.
 - **GJH loturak:** bakoitza GJH-rekin konektatzea eta nola lagun duen azaldu.
-- **Testifigatze eta ahotsak:** ikasleak, irakasleak, auzokideak zer uste duten argitaratzea.
+- **Testigantzak eta ahotsak:** ikasleak, irakasleak, auzokideak zer uste duten argitaratzea.
 
 ### 4.2 Datu-basea
 
@@ -188,7 +188,7 @@ Baliabideak honako helburuekin erabiliko dira: **ezagutza, kontrol eta jarraipen
 - Ikasleak (edo irakasleak) berdeguneean dagoen landarea argazkian jasotzen dute.
 - PlantNet aplikazioan argazkia igota, sistema AI-ak espeziea identifikatu eta datuak ematen ditu: izena (euskaraz eta latinaz), beharrak, jatorria, hazkuntzaren abiadura.
 - Identificatutako landara bakoitzerako **fitxa laburra** sortzen da web orrian eta datu-basean.
-- Landareen dibiersitatea kontuan harturik, monitorizazioa egiten duten ikasleek dibiersitate naturala nolakoa den uler dezakete.
+- Landareen dibertsitatea kontuan harturik, monitorizazioa egiten duten ikasleek dibertsitate naturala nolakoa den uler dezakete.
 
 #### 4.4.2 SEO BirdLife
 

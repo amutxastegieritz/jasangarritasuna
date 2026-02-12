@@ -238,7 +238,7 @@ Berdegunearen kalitatea eta jasangarritasun-funtzionaltasuna hobetzeko, honako e
 **Ekintza zehatza:**
 
 - **Kokapena:** Berdegunearen izkina batean, zaratontzatik baztertua baina ikasleak ikus ditzaten.
-- **Edukiontzia:** Plastikozko komposta-kutxa osoa (500-1000 litroa) edo egurra dena banatua.
+- **Edukiontzia:** Plastikozko komposta-kutxa osoa (500-1000 litro) edo egurra dena banatua.
 - **Materiala:** Ikasgelako organic hondakinak (fruta azalak, aratxoaren azalak, papera), etxetik zalatzekoak, berdegunean kenak eta lurra.
 - **Prozesu:** Konpostaketa klasikoa 4-6 hilabete; ikasleak astelehena astean behatu eta urtu.
 - **Emaitza:** Konpostua berdegunean bere ordain-landareak alim-ebaketa gisa erabiltzea, ziklo zirkularra denean indartzea.

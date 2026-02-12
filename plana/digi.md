@@ -19,7 +19,7 @@ Uni Eibar-Ermua ikastetxea gure uneko enpresa den hezkuntza zentroa da. Ikastetx
 **Ezaugarri orokorrak:**
 
 - Belarra eta zenbait zuhaitz; landare apaingarri batzuk daude.
-- Banku eta eserlekuak atsendu eta elkartze tokiak dira.
+- Banku eta eserlekuak atseden eta elkartze tokiak dira.
 - Zaborrontziak eta hondakin-edukiontziak erabiltzen dira.
 - Ikasleen joan-etorri handia duen gunea, pasabide natural gisa.
 - Irakasleak eta auzoko jendeak ere erabiltzen du, batez ere astelehenetik ostiralera.
@@ -138,7 +138,7 @@ Baliabideak honako helburuekin erabiliko dira: **ezagutza, kontrol eta jarraipen
 - **Egutegia eta egutegi:** ureztaketa, zaintza eta monitorizazio proiektuak.
 - **Lortutako emaitzak:** hondakin murrizketa (hilabete bakoitzean), biodibertsitate gehiagoa, ikasleen iritzia.
 - **GJH loturak:** bakoitza GJH-rekin konektatzea eta nola lagun duen azaldu.
-- **Testifigatze eta ahotsak:** ikasleak, irakasleak, auzokideak zer uste duten argitaratzea.
+- **Testigantzak eta ahotsak:** ikasleak, irakasleak, auzokideak zer uste duten argitaratzea.
 
 ### 4.2 Datu-basea
 
@@ -188,7 +188,7 @@ Baliabideak honako helburuekin erabiliko dira: **ezagutza, kontrol eta jarraipen
 - Ikasleak (edo irakasleak) berdeguneean dagoen landarea argazkian jasotzen dute.
 - PlantNet aplikazioan argazkia igota, sistema AI-ak espeziea identifikatu eta datuak ematen ditu: izena (euskaraz eta latinaz), beharrak, jatorria, hazkuntzaren abiadura.
 - Identificatutako landara bakoitzerako **fitxa laburra** sortzen da web orrian eta datu-basean.
-- Landareen dibiersitatea kontuan harturik, monitorizazioa egiten duten ikasleek dibiersitate naturala nolakoa den uler dezakete.
+- Landareen dibertsitatea kontuan harturik, monitorizazioa egiten duten ikasleek dibertsitate naturala nolakoa den uler dezakete.
 
 #### 4.4.2 SEO BirdLife
 

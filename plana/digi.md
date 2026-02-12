@@ -10,7 +10,7 @@ Gure uneko enpresa den Uni Eibar-Ermua ikastetxeko berdeguneetako baten zaintzar
 
 ### 1.1 Enpresa: Uni Eibar-Ermua
 
-Uni Eibar-Ermua ikastetxea gure uneoko enpresa den hezkuntza zentroa da. Ikastetxeak inguruko komunitatei kalitate oneko hezkuntza eskaini dioten bitartean, jasangarritasunaren eta bizigarritasunaren aldeko proiektuak bultzatu beharrean dago.
+Uni Eibar-Ermua ikastetxea gure uneoko enpresa den hezkuntza zentroa da. Ikastetxeak inguruko komunitateei kalitate oneko hezkuntza eskaini dioten bitartean, jasangarritasunaren eta bizigarritasunaren aldeko proiektuak bultzatu beharrean dago.
 
 ### 1.2 Aukeratutako Berdegunea: Kokapenak eta Ezaugarri Orokorrak
 

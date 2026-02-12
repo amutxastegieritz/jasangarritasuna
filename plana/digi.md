@@ -201,17 +201,6 @@ Baliabideak honako helburuekin erabiliko dira: **ezagutza, kontrol eta jarraipen
 - **Monitorizazioa:** Arlo bakoitzean zein hegazti-espezie ikus daitekeen kontatzea, denboraz denboraz bilakaera jarraitu.
 - **Kontzientziazioa:** Hegaztiak ur-geruzaren edota landareen balioaren adierazle direla erakusten die.
 
-### 4.6 Beste Baliabide Digitalak
-
-#### 4.5.1 Argazki-galeria Partekatua
-
-**Helburua:** Dokumentazio dinamikoa eta parte-hartzaileeei beren lana ikusi ahal izatea.
-
-- **Google Drive:** Astelehena astean berdegunean hartu behar diren argazkiak.
-- **Kalendarizatu jaidun:** Astean 2-3 aldiz egunaren argazkiak igotzea.
-- **Bistaratze publikoa:** Auzokideak eta gurasoak, linkaren bidez, proiektuaren atzean zein egiten den ikustea.
-
----
 
 ## 5. Hobekuntza Proposamenak: Ekintzak Zehaztua
 

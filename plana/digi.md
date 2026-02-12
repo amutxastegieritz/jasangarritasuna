@@ -264,7 +264,7 @@ Berdegunearen kalitatea eta jasangarritasun-funtzionaltasuna hobetzeko, honako e
 **Ekintza zehatza:**
 
 - **Kartel fisikoa:** Landareak identifikatzeko plastikozko kartelak, 25x35 cm, hertsiarren plastikozkoa (denetan iraunkorra). Bakoitza landararen izena (euskara/ingelesa), jatorria, irudia eta lotutako GJH (ikono bidez).
-- **QR eta web orri osatua:** QR kodeak kartelean sortu, web orrian landare osoa deskribatzen duen orria seinalatzen dena.
+- **Web orri osatua:** Web orrian gure berdegunearen azalpen dena bistaratzen da.
 - **Antolaketa:** Berdeguneko 5-7 zutabetan kartelak jarri, bista garbia eta segurtasunarekin.
 - **Eguneraketa:** Landare berriaren plantazioaren ostean, kartelak sortzen dira (ikasleek beren arte diseinatu eta inprimitu ditzakete).
 

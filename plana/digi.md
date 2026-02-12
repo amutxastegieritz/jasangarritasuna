@@ -14,7 +14,7 @@ Uni Eibar-Ermua ikastetxea gure uneoko enpresa den hezkuntza zentroa da. Ikastet
 
 ### 1.2 Aukeratutako Berdegunea: Kokapenak eta Ezaugarri Orokorrak
 
-**Kokapena:** Ikastetxeko patioan, frontoiaren alboan dagoen zerrenda-eremua.
+**Kokapena:** Ikastetxeko patioan, kiroldegiaren alboan dagoen zelai-eremua.
 
 **Ezaugarri orokorrak:**
 

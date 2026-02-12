@@ -14,7 +14,7 @@ Uni Eibar-Ermua ikastetxea gure uneko enpresa den hezkuntza zentroa da. Ikastetx
 
 ### 1.2 Aukeratutako Berdegunea: Kokapenak eta Ezaugarri Orokorrak
 
-**Kokapena:** Ikastetxeko patioan, frontoiaren alboan dagoen zerrenda-eremua.
+**Kokapena:** Ikastetxeko patioan, kiroldegiaren alboan dagoen zerrenda-eremua.
 
 **Ezaugarri orokorrak:**
 
@@ -259,7 +259,7 @@ Berdegunearen kalitatea eta jasangarritasun-funtzionaltasuna hobetzeko, honako e
 
 ### 5.4 Seinaletaketa Didaktikoa Hobetzea
 
-**Helburua:** Ikasleen ezagutzea eta auzoa kontzientziazioa hobetzea, ikus daitezkeen landareak eta GJH loturak erakusten dituen kartel eta QR bidez.
+**Helburua:** Ikasleen ezagutzea eta auzoa kontzientziazioa hobetzea, ikus daitezkeen landareak eta GJH loturak erakusten dituen kartel bidez.
 
 **Ekintza zehatza:**
 
@@ -276,16 +276,14 @@ Berdegunearen kalitatea eta jasangarritasun-funtzionaltasuna hobetzeko, honako e
 
 **Ekintza zehatza:**
 
-- **Talde-txandak:** Ikasturtean zehar, 4-5 pertsonako taldeak ordezkatzen dira aste batez (adibidez, astelehenean astelehenera).
-- **Ardura esleipena:** Bakoitzak zehaztu duen lana du:
+- **Talde-txandak:** Ikasturtean zehar, 4-5 pertsonako taldeak ordezkatzea aste batez (adibidez, astelehenetik ostiralera).
+- **Ardura esleipena:** Bakoitzak zehaztu den lana du:
   - A taldea: Ureztaketa eta behaketa.
   - B taldea: Hondakin-bereizketak eta garbiketa.
   - C taldea: Konpostaren behaketa eta datu-base eguneraketa.
   - D taldea: Argazkiak hartu eta web orrian argitaratu.
-- **Denbora:** Astelehena 1-2 ordu, gaudean edo astearen bukaeran.
+- **Denbora:** Astelehena edo asteartean 1-2 ordu.
 - **Erregistroa:** Denbora, eginda dagoen lana eta behaketak datu-basean egi beharrean. Irtenbide digitala.
-
-**IGG-GJH lotura:** Gz (parte-hartzea eta herrematza), Go (parte-hartzea eta gardentasuna).
 
 ### 5.6 Hondakin Bereizketaren Zaintzaketa Hobetzea
 
@@ -299,7 +297,7 @@ Berdegunearen kalitatea eta jasangarritasun-funtzionaltasuna hobetzeko, honako e
   - Organikoa (berdea)
 - **Seinaletaketa:** Ikonoen bidez, ikaslek bertan neurtuta baina irudia eta hitzez uler ditzaketen seinalak.
 - **Kanpaina kontzientziazioa:** Astean txanda bat, ikasleak behin zenbat hondakin bereizten den kontatzea eta web orrian argitaratzea.
-- **Emisioen-kontatzea:** Nola hondakin-murrizketa karbono emisioak gutxitzen dituen erakutsi (adibidez, birziklatutako tonelada bat = X tonelada CO2 aurrezten da).
+- **Emisioen-kontatzea:** Nola hondakin-murrizketa karbono emisioak gutxitzen dituen erakutsi.
 
 **IGG-GJH lotura:** Gz-12 (Kontsumo arduratsuak), I-13 (Klimaren aurka).
 
@@ -333,14 +331,14 @@ Berdegunearen kalitatea eta jasangarritasun-funtzionaltasuna hobetzeko, honako e
 
 ---
 
-## 7. Baliabideak eta Kostua Estimatiboa (Opsionala)
+## 7. Baliabideak eta Kostua Estimatiboa
 
 | Baliabidea | Kantitatea | Kostua estimatiboa (€) | Iturria |
 |---|---|---|---|
 | **Landareak autoktonoak** | 20-30 espezie | 300-500 | Bertako vivero lokala |
 | **Konposta-kutxa** | 1 | 150-300 | Amazon edo Back Market |
 | **Baliabide digitalak** | Genially, Kahoot, Google Sheets (gehiena dohain) | 0-50 | Online plataforma |
-| **TOTAL ESTIMATIBOA** | — | **500-1.200 €** | — |
+| **TOTAL ESTIMATIBOA** | — | **500-800 €** | — |
 
 *Oharra: Ikastetxeak erabilgarri dauden baliabideak erabiltzen baditu eta boluntarioei laguntza jasotzen bada, kostua murriztu ahal izango da.*
 
